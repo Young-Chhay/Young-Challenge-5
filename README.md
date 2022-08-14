@@ -18,11 +18,11 @@ ___
 
 ## Project Content
 
-* [Github.com/Young-Chhay/Young-Challenge-4](https://github.com/Young-Chhay/Young-Challenge-4 "Young's Github Page")
+* [Github.com/Young-Chhay/Young-WorkDay-Scheduler ](https://github.com/Young-Chhay/Young-WorkDay-Scheduler "Young's Github Page")
 
-* [Deployed Webpage - (challenge-4)](https://young-chhay.github.io/Young-Challenge-4/ "Challenge-4's Webpage")
+* [Deployed Webpage - (Young's Workday Scheduler)](https://young-chhay.github.io/Young-WorkDay-Scheduler/ "Work Day Scheduler")
 
-![Challenge-4 Website Screenshot](./Assets/Quiz_screenshot.JPG)
+![Work Day Scheduler Website Screenshot](./Assets/young-chhay.github.io_Young-WorkDay-Scheduler_%20(1).png)
 
 ---
 ___
